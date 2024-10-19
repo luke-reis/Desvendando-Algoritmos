@@ -3,7 +3,7 @@ package EstruturaCondicional;
 import java.util.Scanner;
 
 
-//Isso é apenas um codigo fonte vai ser descartodo no futuro
+//Isso é apenas um teste vai ser descartodo no futuro
 
 public class CondiconalComposto {
     public static void main(String[] args) {
